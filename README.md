@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmGwatts0x79&count_private=true&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmGwatts0x79&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmGwatts0x79&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 </h1>
 
 
