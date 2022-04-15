@@ -19,3 +19,11 @@
 ---
 ### :man_technologist: About Me:
 I am a Cyber Security Engineer <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="30"> from Texas.
+
+- :gear: I am working as a Infrastructure Security Engineer focused on writing automation, and deploying toolings to assist developers write secure Infrastrucutre As Code.
+
+- :heart: I enjoy working with the Hashicorp Suite of tools (Vault, Vagrant, Nomad, Consul)
+
+- :drop_of_blood: In my free time, I enjoy playing soulsborne games, reading sci-fi books, being outdoors and being a father.
+
+- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/heavymetalops/)
