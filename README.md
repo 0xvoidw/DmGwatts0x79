@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
   [![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmGwatts0x79&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-  ![EphemeralCodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphemeralCodex&count_private=true&include_all_commits=true&theme=dracula)]
+  ![EphemeralCodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphemeralCodex&count_private=true&include_all_commits=true&theme=dracula)
 
 
 </h1>
@@ -24,11 +24,12 @@
 
 ---
 ### :man_technologist: About Me:
-I am a Cyber Security Engineer <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="30"> from Texas.
+I am a Cyber Security Engineer <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="30"> from Texas. I also run [www.feartheoldblood.dev](https://www.feartheoldblood.dev) personal blog
 
-- :gear: I am working as a Infrastructure Security Engineer focused on writing automation, and deploying toolings to assist developers write secure Infrastrucutre As Code. Alot of my work is private, which explains the lack of stats above, nice to see regardless.
 
-- :heart: I enjoy working with the Hashicorp Suite of tools (Vault, Vagrant, Nomad, Consul)
+- :gear: I am working as a Infrastructure Security Engineer focused on writing automation, and deploying toolings to assist developers write secure Infrastrucutre As Code.
+
+- :heart: I enjoy working with the Hashicorp Suite of tools (Vault, Vagrant, Nomad, Consul). I pride myself on being multi-facted in various technologies. IaC all the things.
 
 - :drop_of_blood: In my free time, I enjoy playing soulsborne games, reading sci-fi books, being outdoors and being a father.
 
