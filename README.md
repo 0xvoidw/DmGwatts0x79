@@ -14,10 +14,10 @@
 <h1 align="center">
   Welcome to The Black Sun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmGwatts0x79&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 </h1>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmGwatts0x79&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ---
 ### :man_technologist: About Me:
