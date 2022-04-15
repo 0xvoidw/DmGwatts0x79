@@ -15,8 +15,8 @@
   Welcome to The Black Sun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-  [![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmGwatts0x79&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-  ![EphemeralCodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphemeralCodex&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Dillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmGwatts0x79&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+  ![EphemeralCodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=EphemeralCodex&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </h1>
 
