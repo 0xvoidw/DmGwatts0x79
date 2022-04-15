@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/lvQe7YwEEJoaIluvs6/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/heavymetalops/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
