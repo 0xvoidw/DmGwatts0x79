@@ -24,7 +24,7 @@
 
 ---
 ### :man_technologist: About Me:
-I am a Cyber Security Engineer <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="30"> from Texas. I also run [https://publish.obsidian.md/voidwalker-io](https://publish.obsidian.md/voidwalker-iov) personal blog
+I am a Cyber Security Engineer <img src="https://media.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.gif" width="30"> from Texas. I also run [https://publish.obsidian.md/voidwalker-io](https://publish.obsidian.md/voidwalker-io) personal blog
 
 
 - :gear: I am working as a Infrastructure Security Engineer focused on writing automation, and deploying toolings to assist developers write secure Infrastrucutre As Code.
