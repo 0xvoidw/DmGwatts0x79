@@ -1,0 +1,101 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Solarized Light",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.scrollback": 10000,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "terminal.integrated.tabs.location": "left",
+    "workbench.iconTheme": "vscode-great-icons",
+    "css.link.emptyRules": "ignore",
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace",
+        "gitlens.codeLens.scopes": [
+            "document"
+        ]
+    },
+    "json.maxItemsComputed": 99999999999,
+    "editor.largeFileOptimizations": false,
+    "security.workspace.trust.enabled": false,
+    "git.autofetch": true,
+    "redhat.telemetry.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.mac": "/Users/dillion.watts/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "workbench.startupEditor": "none",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": true
+    },
+    "terminal.integrated.persistentSessionScrollback": 100000,
+    "githubPullRequests.terminalLinksHandler": "github",
+    "json.schemas": [],
+    "azure.tenant": "AzureCloud",
+    "aws.profile": "profile:Personal Yig",
+    "yaml.customTags": [
+        "!And",
+        "!And sequence",
+        "!If",
+        "!If sequence",
+        "!Not",
+        "!Not sequence",
+        "!Equals",
+        "!Equals sequence",
+        "!Or",
+        "!Or sequence",
+        "!FindInMap",
+        "!FindInMap sequence",
+        "!Base64",
+        "!Join",
+        "!Join sequence",
+        "!Cidr",
+        "!Ref",
+        "!Sub",
+        "!Sub sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!ImportValue sequence",
+        "!Select",
+        "!Select sequence",
+        "!Split",
+        "!Split sequence"
+    ],
+    "editor.accessibilitySupport": "off",
+    "files.insertFinalNewline": true,
+    "window.zoomLevel": 1,
+    "snyk.yesWelcomeNotification": false,
+    "explorer.confirmDragAndDrop": false,
+    "go.toolsManagement.autoUpdate": true,
+    "editor.suggest.showMethods": true,
+    "editor.suggest.preview": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.snippetSuggestions": "top",
+    "workbench.preferredLightColorTheme":"Solarized Light",
+    "workbench.preferredDarkColorTheme": "Bearded Theme Surprising Blueberry",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "zenMode.fullScreen": false,
+    "window.title": ""
+}
